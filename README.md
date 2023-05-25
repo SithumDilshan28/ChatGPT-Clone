@@ -4,7 +4,7 @@ Alpha-AI is a personal project that introduces a React-based ChatGPT clone web a
 
 Key Features:
 
-Conversational Interface: Alpha-AI features a conversational interface where users can interact with the AI model. Users can ask questions, seek advice, or engage in casual conversations, and the AI responds accordingly. The aim is to create a natural and dynamic interaction that mimics human conversation.
+Conversational Interface: Alpha-AI features a conversational interface where users can interact with the AI model. Users can ask questions, seek advice, or engage in casual conversations and the AI responds accordingly. The aim is to create a natural and dynamic interaction that mimics human conversation.
 
 AI-powered Responses: The web application incorporates a pre-trained AI model that uses natural language processing techniques to generate intelligent and contextually relevant responses. The AI model is designed to understand and interpret user inputs, providing accurate and meaningful answers to a wide range of queries.
 
