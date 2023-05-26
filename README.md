@@ -1,5 +1,5 @@
 # Alpha-AI: React ChatGPT Clone Web Application for Online AI Tool
-
+ 
 Alpha-AI is a personal project that introduces a React-based ChatGPT clone web application. This online AI tool website offers a unique and interactive experience for users to engage in conversations with an artificial intelligence model. The application is designed to simulate human-like conversations and provide insightful responses to user queries.
 
 Key Features:
